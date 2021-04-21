@@ -18,7 +18,7 @@ h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 7rem;
   color: #4ECCA3;
 }
 
@@ -40,9 +40,9 @@ img {
   color:  #232931;
   background-color: #4ECCA3;
   padding: 15px 20px;
-  font-size: 3rem;
+  font-size: 2rem;
   text-decoration: none;
-  border-radius: 5%;
+  border-radius: 10px;
 }
 .play:hover {
   color: #304353;
@@ -67,5 +67,8 @@ footer {
   }
   p{
     font-size: 1.5rem;
+  }
+  body{
+    padding-top: 200px;
   }
 }
