@@ -31,6 +31,24 @@ p {
 img {
   width: 80%;
 }
+.refreshbtn{
+  text-align: center;
+  margin-top: 30px;
+}
+.play{
+  font-family: 'Arial';
+  color:  #232931;
+  background-color: #4ECCA3;
+  padding: 15px 20px;
+  font-size: 3rem;
+  text-decoration: none;
+  border-radius: 5%;
+}
+.play:hover {
+  color: #304353;
+  background: #fff;
+  /* padding: 0.5rem; */
+}
 
 footer {
   margin-top: 5%;
